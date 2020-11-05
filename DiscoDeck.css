@@ -2,3 +2,9 @@
     font-family: DiscoDeck;
     src: url("https://github.com/UntrustableRus/fonts/raw/main/DiscoDeck-a4wa.otf") format("opentype");
 }
+
+/* Usage */
+
+body {
+  font-family: 'DiscoDeck', Fallback, sans-serif;
+}
